@@ -25,6 +25,11 @@ Una vez ya obtenido el formulario, primero creamos la carpeta build a partir de 
 ![image](https://user-images.githubusercontent.com/91051075/150971145-5281b11b-1615-4a40-8870-ca3fd3dff3a1.png)<br>
  Y entonces ya podemos visualizar el contenido al enviar el formulario.<br>
 ![image](https://user-images.githubusercontent.com/91051075/150971193-a64f9838-0c0f-4d86-ac2a-2eb850a1b4f3.png)<br>
+ SUBIDA DE FICHEROS<br>
+ ![image](https://user-images.githubusercontent.com/91051075/150973011-5bcfb77e-e8aa-4c86-888d-9a50e2b5468d.png)
+ ![image](https://user-images.githubusercontent.com/91051075/150973260-8fb13ada-8b56-4206-a05c-439fe23737ab.png)
+
+
 
 
 
