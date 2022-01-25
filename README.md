@@ -21,6 +21,13 @@
 Una vez ya obtenido el formulario, primero creamos la carpeta build a partir de la consola (npm build) y nos genera una copia del contenido que teníamos dentro de source. (Y podemos entrar a partir de él).
 <li>Una vez ya finalizado, en la carpeta package.json añadimos dentro los scripts (prebuild, dev y build) y keywords (webapp, webdev…) para una compilación de los datos actuales. También instalamos a partir de la consola nodmeon, bootstrap icons y node-sass).
 <li>Luego para que la pantalla muestre los datos introducidos en el formulario creamos un archivo login_basico.php.Para enlazarlo, lo metemos en el index.html a partir de form action.
+ 
+ A MAYORES
+ 
+<li>Una vez ya obtenido el formulario, primero creamos la carpeta build a partir de la consola (npm build) y nos genera una copia del contenido que teníamos dentro de source. (Y podemos entrar a partir de él).
+<li>Una vez ya finalizado, en la carpeta package.json añadimos dentro los scripts (prebuild, dev y build) y keywords (webapp, webdev…) para una compilación de los datos actuales. También instalamos a partir de la consola nodmeon, bootstrap icons y node-sass).
+<li>Luego para que la pantalla muestre los datos introducidos en el formulario creamos un archivo login_basico.php.Para enlazarlo, lo metemos en el index.html a partir de form action.
+
 
 
 
