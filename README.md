@@ -28,7 +28,7 @@ Una vez ya obtenido el formulario, primero creamos la carpeta build a partir de 
  SUBIDA DE FICHEROS<br>
  ![image](https://user-images.githubusercontent.com/91051075/150973011-5bcfb77e-e8aa-4c86-888d-9a50e2b5468d.png)
  ![image](https://user-images.githubusercontent.com/91051075/150973260-8fb13ada-8b56-4206-a05c-439fe23737ab.png)
- <li> Esto se encuentra dentro dentro de la carpeta subidas.
+ <li> Esto se encuentra dentro dentro de la carpeta subidas. <br>
 
 
 
